@@ -4,20 +4,15 @@ def mario
   puts phrase
 end
 
-mario
-
 
 def toadstool
   puts status
 end
 
-toadstool
 
 def link 
   puts "It's dangerous To Go Alone! Take This."
 end
-
-link
 
 
 def all_phrases 
