@@ -12,7 +12,7 @@ end
 
 
 def link 
-  phrase = "It's dangerous To Go Alone! Take This."
+  phrase = 
   puts phrase
 end
 
